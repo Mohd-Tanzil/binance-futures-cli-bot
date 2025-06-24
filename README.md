@@ -71,3 +71,10 @@ Built in Python, this tool allows users to trade directly via the terminal using
 
 ### ✅ Execution Status  
 ![Execution Status](screenshots/Screenshot%202025-06-24%20184308.png)
+
+## 🎥 Demo Video
+
+📽️ Here's a quick screen recording showing how the CLI bot works in real-time:
+
+➡️ [Watch Demo](screenshots/Screen-Recording.mp4)
+
