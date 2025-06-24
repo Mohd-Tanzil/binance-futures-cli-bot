@@ -74,7 +74,7 @@ Built in Python, this tool allows users to trade directly via the terminal using
 
 ## 🎥 Demo Video
 
-📽️ Here's a quick screen recording showing how the CLI bot works in real-time:
+📽️ Click below to download and watch the CLI Bot in action:
 
-➡️ [Watch Demo](screenshots/Screen-Recording.mp4)
+[🔗 Watch Screen Recording](https://github.com/Mohd-Tanzil/binance-futures-cli-bot/raw/main/screenshots/Screen-Recording.mp4)
 
