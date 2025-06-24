@@ -42,22 +42,32 @@ Built in Python, this tool allows users to trade directly via the terminal using
    ```bash
    pip install python-binance
    ```
-3.Add your API credentials:
+3. Add your API credentials:
    ```bash
    API_KEY = "your_api_key_here"
    API_SECRET = "your_api_secret_here"
    ```
-4.Run the bot:
+4. Run the bot:
    ```bash
-  python bot.py
+   python bot.py
    ```
  ## Sample CLI Demo
- ```bash
-📈 Welcome to Binance Futures Testnet CLI Bot
+   ```bash
+   📈 Welcome to Binance Futures Testnet CLI Bot
 
-Menu:
-1. Place Order
-2. Cancel Open Orders
-3. Track Order Status
-4. Exit
-```
+   Menu:
+   1. Place Order
+   2. Cancel Open Orders
+   3. Track Order Status
+   4. Exit
+   ```
+## 🖼️ Screenshots
+
+### 🟢 Bot Starting View  
+![Bot Starting View](screenshots/Screenshot%202025-06-24%20184027.png)
+
+### ⚙️ Bot Working Status  
+![Bot Working Status](screenshots/Screenshot%202025-06-24%20184147.png)
+
+### ✅ Execution Status  
+![Execution Status](screenshots/Screenshot%202025-06-24%20184308.png)
